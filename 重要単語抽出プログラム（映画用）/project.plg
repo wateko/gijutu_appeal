@@ -1,0 +1,36 @@
+<html>
+<body>
+<pre>
+<h1>ﾋﾞﾙﾄﾞのﾛｸﾞ</h1>
+<h3>
+--------------------構成: project - Win32 Debug--------------------
+</h3>
+<h3>ｺﾏﾝﾄﾞ ﾗｲﾝ</h3>
+一時ﾌｧｲﾙ "C:\Users\fumio\AppData\Local\Temp\RSPFB96.tmp" を作成し、次の内容を記録します
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/project.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\fumio\Desktop\TF・IDF（伊東君用） - コピー\project.cpp"
+]
+Creating command line "cl.exe @C:\Users\fumio\AppData\Local\Temp\RSPFB96.tmp" 
+一時ﾌｧｲﾙ "C:\Users\fumio\AppData\Local\Temp\RSPFB97.tmp" を作成し、次の内容を記録します
+[
+libchasen.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /stack:0x989680,0x989680 /subsystem:console /incremental:yes /pdb:"Debug/project.pdb" /debug /machine:I386 /out:"Debug/project.exe" /pdbtype:sept 
+".\Debug\project.obj"
+]
+ｺﾏﾝﾄﾞ ﾗｲﾝ "link.exe @C:\Users\fumio\AppData\Local\Temp\RSPFB97.tmp" の作成中
+<h3>ｱｳﾄﾌﾟｯﾄ ｳｨﾝﾄﾞｳ</h3>
+ｺﾝﾊﾟｲﾙ中...
+project.cpp
+C:\Users\fumio\Desktop\TF・IDF（伊東君用） - コピー\project.cpp(23) : warning C4101: 's' : ﾛｰｶﾙ変数は 1 度も使われません。
+C:\Users\fumio\Desktop\TF・IDF（伊東君用） - コピー\project.cpp(23) : warning C4101: 't' : ﾛｰｶﾙ変数は 1 度も使われません。
+C:\Users\fumio\Desktop\TF・IDF（伊東君用） - コピー\project.cpp(136) : warning C4101: 't' : ﾛｰｶﾙ変数は 1 度も使われません。
+C:\Users\fumio\Desktop\TF・IDF（伊東君用） - コピー\project.cpp(273) : warning C4101: 'j' : ﾛｰｶﾙ変数は 1 度も使われません。
+ﾘﾝｸ中...
+
+
+
+<h3>結果</h3>
+project.exe - ｴﾗｰ 0、警告 4
+</pre>
+</body>
+</html>
